@@ -71,11 +71,20 @@ public class C05_Child extends C04_Parent {
         // Overriding method'un return type'ı da aynı olmalıdır.
 
     }
-    public String method10(){
+
+    public String method10() {
         // eğer overriden method'un return type'ı non-primitive ise
         // overriding method'un return type'ı YA aynısı olacak
         // YADA parent class'ın return type'ı ile IS-A relationship olan bir data türü olacak
         return null;
     }
+    @Override
+    public void method11() {
+        super.method11();
+        // overriding yapıldığında
+        // overriden method veya overriding method'dan SADECE biri çalışır
 
+        // EGER ikisinin de çalışmasını isterseniz, super.methodIsmi yazarak
+        // parent'daki methodun da çalışmasını SAGLAYABILIRIZ
+    }
 }
