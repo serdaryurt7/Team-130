@@ -41,8 +41,11 @@ public class C04_Parent {
         return null;
     }
 
-    public void method11(){}
+    public void method11() {
+    }
 
-    // 2:00
+    // Polymorphism = Overloading + Overriding
+    // Overloading = Aynı class'ta farklı signature' a sahip methodlar
+    // Overriding = Farklı class, aynı siganture (Parent - Child içerisinde)
 
 }

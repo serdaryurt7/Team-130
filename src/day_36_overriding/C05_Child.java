@@ -88,3 +88,9 @@ public class C05_Child extends C04_Parent {
         // parent'daki methodun da çalışmasını SAGLAYABILIRIZ
     }
 }
+
+
+        //  GP : 1, 1
+        //   P : 2, 4
+        //   C : 3, 6
+        //   C : 4, 8
