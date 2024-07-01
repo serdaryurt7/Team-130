@@ -1,4 +1,4 @@
-package day_37_AbstractClasses;
+package day37_AbstractClasses;
 
 public abstract class C07_AbstractParent extends C06_AbstractGP {
 

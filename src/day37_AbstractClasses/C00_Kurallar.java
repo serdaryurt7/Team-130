@@ -1,4 +1,4 @@
-package day_37_AbstractClasses;
+package day37_AbstractClasses;
 
 public class C00_Kurallar {
 

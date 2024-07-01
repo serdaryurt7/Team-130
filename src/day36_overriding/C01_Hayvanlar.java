@@ -1,4 +1,4 @@
-package day_36_overriding;
+package day36_overriding;
 
 public class C01_Hayvanlar {
 

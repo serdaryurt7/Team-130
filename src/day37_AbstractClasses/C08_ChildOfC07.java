@@ -1,4 +1,4 @@
-package day_37_AbstractClasses;
+package day37_AbstractClasses;
 
 public class C08_ChildOfC07 extends C07_AbstractParent {
 
