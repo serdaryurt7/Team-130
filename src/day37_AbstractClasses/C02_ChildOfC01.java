@@ -3,7 +3,7 @@ package day37_AbstractClasses;
 public class C02_ChildOfC01 {
 
     /*
-        C02 class'indan parent edinmek için C01'in onayına ihtiyacımız YOK
+        C02 class'indan parent edinmek için C01_FinalVariables'in onayına ihtiyacımız YOK
 
         isteyen class istediği class'i extends keyword kullanarak Parent EDINEBILIR
 

@@ -1,10 +1,17 @@
 package day38_interfaces;
 
-public class C01 {
+import java.util.ArrayList;
+import java.util.List;
+
+public class C01_FinalVariables {
 
     final static int SAYI = 10;
     // final String STR;
     // Variable 'STR' might not have been initialized
+
+    public void method44() {
+
+    }
 
     public static void main(String[] args) {
 
@@ -20,8 +27,6 @@ public class C01 {
         System.out.println(SAYI); // 10
 
         // sayi = 20;
-
-
     }
 
 }
