@@ -98,6 +98,7 @@ public class C01_ListIterator {
         }
 
         System.out.println(sayilar);
+        // 1:13
 
     }
 
